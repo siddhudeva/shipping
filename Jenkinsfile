@@ -1,8 +1,8 @@
-@Library('roboshop') _
+@Library('Roboshop') _
 
 // Variables
-env.COMPONENT = "cart"
+env.COMPONENT = "shipping"
 env.BUILD_LABEL = "WORKSTATION"
 
 // Library Groovy file
-maven()
+maven() 
